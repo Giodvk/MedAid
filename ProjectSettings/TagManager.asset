@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interact
+  - Bot
+  - BotMedico
+  - luceAttesa
+  - luceStudio
+  - fotocamera
+  - foto
+  - Menu
+  - Tutorial
+  - imp
+  - Cursore
+  - UIGioco
+  - collo
+  - esito
+  - libroEsito
+  - patient
+  - time
+  - door
+  - micAcceso
+  - micSpento
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
