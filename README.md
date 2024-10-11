@@ -1,4 +1,4 @@
-# MedAid
+# MedAid: A Metaverse to help students and doctors
 <p align="center">
  <img src="MedAid.png" alt="MedAid Logo" width="200"/>
 </p>
