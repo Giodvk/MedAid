@@ -1,6 +1,6 @@
 # MedAid
 <p align="center">
- <img src="MedAid.png" alt="MedAid Logo" width="200" align="center"/>
+ <img src="MedAid.png" alt="MedAid Logo" width="200"/>
 </p>
 
 **MedAid** è un metaverso innovativo progettato per simulare la diagnosi della **retinopatia diabetica**, una delle principali cause di cecità nel mondo. Questo ambiente virtuale interattivo consente agli utenti di esplorare, diagnosticare e comprendere meglio questa patologia attraverso interazioni immersive con avatar realistici.
@@ -19,12 +19,11 @@ Il metaverso è stato sviluppato con particolare attenzione all'esperienza multi
 ---
 
 ## Screenshot
-
+<p align="center">
 <!-- Inserisci qui gli screenshot o i video del progetto -->
-![Screenshot 1](path-to-screenshot1.png)
-![Screenshot 2](path-to-screenshot2.png)
-
----
+ <img src="ufficio.png" alt="Ufficio" width="500"/>
+ <img src="domandePGUI.png" alt="GUIDomande" width="400"/>
+</p>
 
 ## Tecnologie Utilizzate
 
